@@ -4,6 +4,7 @@
 #include <string>
 #include "User.h"
 #include <fstream>
+#include<algorithm>
 
 using namespace std;
 
