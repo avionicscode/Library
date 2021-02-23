@@ -2,6 +2,7 @@
 #include <vector>
 #include <fstream>
 #include <string>
+#include<algorithm>
 
 int Inventory::NumberOfBooks()
 {
